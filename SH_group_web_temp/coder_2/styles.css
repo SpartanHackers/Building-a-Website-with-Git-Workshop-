@@ -1,0 +1,15 @@
+body, html {
+    height: 100%;
+    margin: 0%;
+}
+
+.home-parallax {
+    /* The image used */
+    background-image: linear-gradient(rgb(24,1000,59,.8),rgb(61, 0, 102,.8)),url(../images/BK2.jpg);
+
+    /* Full height */
+    height: 100%; 
+    
+    /* font color */
+    color: white;
+}
